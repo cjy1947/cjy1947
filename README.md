@@ -2,9 +2,10 @@
 Dreaming of becoming a developer.
 
 
-#### ✨ Tech Skill ✨
+### ✨ Tech Skill ✨
 <div>
   <h4> 💻  Platforms & Languages </h4>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 </div>
 
 <!--
