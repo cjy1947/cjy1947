@@ -1,9 +1,9 @@
 ## This is Joo Young 🙂
 Dreaming of becoming a developer.
 <br>
+<br>
 
-
-#### ✨ Tech Skill ✨
+### ✨ Tech Skill ✨
 <div>
   <h5> 💻 Platforms & Languages </h5>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -13,14 +13,12 @@ Dreaming of becoming a developer.
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
 </div>
-
 <div>
   <h5> 📑 Data </h5>
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 </div>
-
 <div>
   <h5> 🧰 Tools </h5>
   <img src="https://img.shields.io/badge/eclipse Ide-525C86?style=flat&logo=eclipseide&logoColor=white"/>
