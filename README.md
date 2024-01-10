@@ -4,7 +4,7 @@ Dreaming of becoming a developer.
 
 #### ✨ Tech Skill ✨
 <div>
-  <h4> </h4>
+  <h4> 💻  Platforms & Languages </h4>
 </div>
 
 <!--
