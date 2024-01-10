@@ -1,5 +1,5 @@
-### This is Joo Young 🙂
-
+## This is Joo Young 🙂
+Dreaming of becoming a developer.
 
 
 <!--
