@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
+
 
 <!--
 **cjy1947/cjy1947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
