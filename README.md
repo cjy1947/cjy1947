@@ -2,6 +2,11 @@
 Dreaming of becoming a developer.
 
 
+#### ✨ Tech Skill ✨
+<div>
+  <h4> </h4>
+</div>
+
 <!--
 **cjy1947/cjy1947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
