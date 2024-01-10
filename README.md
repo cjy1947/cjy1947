@@ -29,6 +29,9 @@ Dreaming of becoming a developer.
    <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 </div>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjy1947&layout=compact&theme=dark"/>
+</div>
 
 <!--
 **cjy1947/cjy1947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
