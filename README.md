@@ -23,10 +23,10 @@ Dreaming of becoming a developer.
   <h5> 🧰 Tools </h5>
   <img src="https://img.shields.io/badge/eclipse Ide-525C86?style=flat&logo=eclipseide&logoColor=white"/>
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/>
+   <img src="https://img.shields.io/badge/redash-FF7964?style=flat&logo=redash&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
    <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-   <img src="https://img.shields.io/badge/redash-FF7964?style=flat&logo=redash&logoColor=white"/>
 </div>
 
