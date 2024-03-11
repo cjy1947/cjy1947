@@ -31,3 +31,4 @@ Dreaming of becoming a developer.
 </div>
 
 ### 🚀 PORTFOLIO 🚀
+(https://github.com/cjy1947/cjy1947/files/14554042/TmaxRG.QA_._.pdf)
