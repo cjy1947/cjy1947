@@ -30,5 +30,5 @@ Dreaming of becoming a developer.
    <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 </div>
 
-### 🚀 PORTFOLIO 🚀
-Link : https://github.com/cjy1947/cjy1947/files/14554042/TmaxRG.QA_._.pdf
+// ### 🚀 PORTFOLIO 🚀
+// Link : https://github.com/cjy1947/cjy1947/files/14554042/TmaxRG.QA_._.pdf
